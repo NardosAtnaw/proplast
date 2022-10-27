@@ -1,0 +1,109 @@
+.about-section {
+  .container {
+    h2 {
+      margin-top: 1rem;
+      font-size: 2rem;
+      text-align: center;
+      color: #523513;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+    p {
+      margin-top: 1rem;
+      text-align: center;
+      color: #523513;
+      letter-spacing: 0.1em;
+      line-height: 1.3rem;
+    }
+  }
+}
+.vm {
+  background: #7f675b;
+  padding: 2rem 0 3rem;
+  .container {
+    display: grid;
+    place-items: center;
+    @include responsive($md) {
+      grid-template-columns: 1fr 1fr;
+      gap: 3rem;
+      align-items: flex-start;
+    }
+    .vision {
+      display: grid;
+      place-items: center;
+      @include responsive($md) {
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+      }
+      img {
+        margin-bottom: 1rem;
+        width: 3rem;
+      }
+      h4 {
+        // color: #fff;
+        color: transparent;
+        -webkit-text-stroke: 1px #ebe5d9;
+        font-size: 2rem;
+        text-align: center;
+
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+      }
+      p {
+        margin-top: 1rem;
+        text-align: center;
+        color: #ebe5d9;
+        letter-spacing: 0.1em;
+        line-height: 1.3rem;
+      }
+    }
+    .mission {
+      margin-top: 5rem;
+      display: grid;
+      place-items: center;
+      @include responsive($md) {
+        margin-top: 3rem;
+        margin-bottom: 2rem;
+      }
+      img {
+        margin-bottom: 1rem;
+        width: 3rem;
+      }
+      h4 {
+        // color: #fff;
+        color: transparent;
+        -webkit-text-stroke: 1px #ebe5d9;
+        font-size: 2rem;
+        text-align: center;
+
+        font-weight: 800;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+      }
+      p {
+        margin-top: 1rem;
+        text-align: center;
+        color: #ebe5d9;
+        letter-spacing: 0.1em;
+        line-height: 1.3rem;
+      }
+    }
+  }
+}
+.gallery {
+  .gallery-wrapper {
+    display: grid;
+    place-items: center;
+    @include responsive($md) {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+    img {
+      @include responsive($md) {
+        width: 30rem;
+        object-fit: cover;
+      }
+    }
+  }
+}

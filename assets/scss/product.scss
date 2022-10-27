@@ -1,0 +1,212 @@
+.page-header {
+  background-color: #ebe5d9;
+  height: 60vh;
+}
+.page-wrapper {
+  display: grid;
+  place-items: center;
+
+  article {
+    color: #523513;
+    align-items: center;
+    .site-title {
+      margin-top: 15rem;
+      font-size: 5rem;
+      letter-spacing: 1rem;
+      font-weight: 800;
+      text-align: center;
+      text-transform: uppercase;
+      color: transparent;
+      -webkit-text-stroke: 2px #523513;
+      @include sm {
+        margin-top: 15rem;
+        font-size: 2rem;
+        // width: 20px;
+        -webkit-text-stroke: 1px #523513;
+      }
+    }
+  }
+}
+.product-list1 {
+  .container {
+    .new-product {
+      @include responsive($md) {
+        display: flex;
+        gap: 2rem;
+        place-items: center;
+        align-items: center;
+      }
+      img {
+        width: 20rem;
+        margin-top: 2rem;
+        object-fit: cover;
+        @include responsive($lg) {
+          margin-top: 0rem;
+          width: 30rem;
+          height: 2;
+        }
+      }
+      .text-desc {
+        h2 {
+          font-size: 2rem;
+          color: $m-01;
+          font-weight: 800;
+          text-transform: uppercase;
+          //   color: transparent;
+          //   box-sizing: border-box;
+          //   -webkit-text-stroke: 1px #523513;
+          letter-spacing: 0.1em;
+        }
+        p {
+          margin-top: 2rem;
+          color: $m-01;
+        //   width: 85%;
+          letter-spacing: 0.1em;
+          line-height: 1.3rem;
+          margin-bottom: 2rem;
+          @include responsive($md) {
+            width: 75%;
+          }
+        }
+      }
+    }
+  }
+}
+.module {
+  display: grid;
+  grid-template-columns: repeat(14, 1fr);
+  grid-column-gap: 20px;
+  width: 100%;
+  max-width: 1920px;
+  margin: auto;
+  margin-top: 5rem;
+
+  @include sm {
+    grid-column-gap: 10px;
+
+    grid-template-columns: 10px repeat(12, 1fr) 10px;
+  }
+
+  .content {
+    grid-column: 3 / 13;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-column-gap: 20px;
+
+    @include md {
+      grid-column: 2 / 14;
+    }
+
+    @include sm {
+      grid-template-columns: repeat(1, 1fr);
+      grid-column: 2 / 14;
+    }
+  }
+}
+.product-all-list {
+  .list {
+    .container {
+      @include responsive($md) {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 2rem;
+      }
+      .single-list {
+        margin-top: 2rem;
+        display: grid;
+        place-items: center;
+        img {
+          object-fit: cover;
+          @include responsive($md) {
+            width: 25rem;
+            height: 15rem;
+          }
+        }
+        h4 {
+          margin-top: 1rem;
+          font-size: 1.5rem;
+          text-align: center;
+          color: #523513;
+          font-weight: 800;
+          text-transform: uppercase;
+          //   color: transparent;
+          //   box-sizing: border-box;
+          //   -webkit-text-stroke: 1px #523513;
+          letter-spacing: 0.1em;
+        }
+        p {
+          margin-top: 1rem;
+          font-size: 0.9rem;
+          width: 95%;
+          line-height: 1.3rem;
+          text-align: center;
+          margin-top: 1rem;
+
+          color: #523513;
+          letter-spacing: 0.1em;
+
+          @include responsive($md) {
+            width: 80%;
+          }
+        }
+      }
+    }
+  }
+}
+
+.map1 {
+  background: #7f675b;
+  padding: 2rem 0 3rem;
+  overflow: hidden;
+  @include responsive($lg) {
+    height: 40.94rem;
+  }
+
+  h1 {
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    @include responsive($lg) {
+      font-size: 3rem;
+    }
+  }
+  p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+
+    text-align: center;
+    color: #fff;
+  }
+  .map-container {
+    margin-top: 3rem;
+    .location {
+      .map-responsive {
+        overflow: hidden;
+        padding-bottom: 126.25%;
+        @include responsive($md) {
+          padding-bottom: 58.25%;
+        }
+        @include responsive($lg) {
+          padding-bottom: 56.25%;
+        }
+        position: relative;
+
+        iframe {
+          left: 50%;
+          transform: translate(-50%);
+          top: 0;
+          max-height: 27.94rem;
+          max-width: 69.25rem;
+          height: 100%;
+          width: 100%;
+          position: absolute;
+        }
+      }
+    }
+  }
+}
