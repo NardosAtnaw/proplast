@@ -2,7 +2,7 @@
   <nav>
     <div class="logo1">
       <nuxt-link to="/">
-        <img src="../assets/img/logonone2.svg" alt=""
+        <img src="../assets/img/LOGOFONT.svg" alt=""
       /></nuxt-link>
     </div>
     <i class="icon-menu">

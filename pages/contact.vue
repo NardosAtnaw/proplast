@@ -14,7 +14,7 @@
     <div class="wrapper">
       <Contactus />
 
-      <section class="map1">
+      <section class="map1 row-max-grid">
         <div class="container">
           <h1 class="title center">Our Location</h1>
           <p class="text center">

@@ -1,9 +1,6 @@
 <template>
  <div>
-    <section class="module ">
-        <h3 class="section-title"><span>Contact </span><b>Us</b></h3>
-        <div class="content"></div>
-      </section>
+   
       <section class="contact">
         <div class="container">
           <!-- <h2>Contact Us</h2> -->

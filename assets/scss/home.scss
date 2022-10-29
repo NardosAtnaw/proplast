@@ -1,5 +1,7 @@
 .landing {
-  background-color: #523513;
+  background-color: #ebe5d9;
+  // background: linear-gradient(to bottom,rgb(222, 225, 206) 0%,rgba(7,7,49,0) 100%);
+  // transform: rotate(180deg);
   height: 90vh;
   position: relative;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.05);
@@ -11,7 +13,7 @@
         margin-top: 10rem;
         width: 5rem;
         @include responsive($md) {
-          margin-top: 18rem;
+          margin-top: 15rem;
           width: 8rem;
         }
       }
@@ -19,7 +21,8 @@
         text-align: center;
         margin-top: 1rem;
         font-size: 1.3rem;
-        color: #fff;
+        font-family: "LitSans";
+        color: #523513;
         @include responsive($md) {
           font-size: 2rem;
         }
@@ -27,13 +30,112 @@
       p {
         font-size: 0.9rem;
         line-height: 1.3rem;
-        color: #fff;
+        color: #523513;
+        font-weight: 300;
         font-family: "LitSans";
         text-align: center;
         margin-top: 0.5rem;
         @include responsive($md) {
           width: 50%;
           font-size: 1.3rem;
+        }
+      }
+
+      .animate-reveal {
+        opacity: 0;
+        -webkit-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal
+          forwards;
+        -moz-animation: reveal 1s ease-in 1 normal forwards;
+        -o-animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+        animation: reveal 1s cubic-bezier(0, 1, 0.5, 1) 1 normal forwards;
+      }
+
+      .animate-first {
+        -webkit-animation-delay: 0;
+        -moz-animation-delay: 0;
+        -o-animation-delay: 0;
+        animation-delay: 0;
+      }
+
+      .animate-second {
+        -webkit-animation-delay: 500ms;
+        -moz-animation-delay: 500ms;
+        -o-animation-delay: 500ms;
+        animation-delay: 500ms;
+      }
+
+      .animate-third {
+        -webkit-animation-delay: 1s;
+        -moz-animation-delay: 1s;
+        -o-animation-delay: 1s;
+        animation-delay: 1s;
+      }
+
+      @-webkit-keyframes reveal {
+        0% {
+          opacity: 0;
+          -webkit-transform: translateY(100%);
+          -moz-transform: translateY(100%);
+          -o-transform: translateY(100%);
+          transform: translateY(100%);
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: translateY(0);
+          -moz-transform: translateY(0);
+          -o-transform: translateY(0);
+          transform: translateY(0);
+        }
+      }
+
+      @-moz-keyframes reveal {
+        0% {
+          opacity: 0;
+          -webkit-transform: translateY(100%);
+          -moz-transform: translateY(100%);
+          -o-transform: translateY(100%);
+          transform: translateY(100%);
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: translateY(0);
+          -moz-transform: translateY(0);
+          -o-transform: translateY(0);
+          transform: translateY(0);
+        }
+      }
+
+      @-o-keyframes reveal {
+        0% {
+          opacity: 0;
+          -webkit-transform: translateY(100%);
+          -moz-transform: translateY(100%);
+          -o-transform: translateY(100%);
+          transform: translateY(100%);
+        }
+        100% {
+          opacity: 1;
+          -webkit-transform: translateY(0);
+          -moz-transform: translateY(0);
+          -o-transform: translateY(0);
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes reveal {
+        0% {
+          // opacity: 0;
+          -webkit-transform: translateY(100%);
+          -moz-transform: translateY(100%);
+          -o-transform: translateY(100%);
+          transform: translateY(100%);
+        }
+        100% {
+          opacity:1;
+          -webkit-transform: translateY(0);
+          -moz-transform: translateY(0);
+          -o-transform: translateY(0);
+          transform: translateY(0);
         }
       }
     }
@@ -216,7 +318,7 @@ nav {
   height: 5.5rem;
   display: flex;
   align-items: center;
-  background-color: #523513;
+  background-color: #ebe5d9;
   padding-bottom: 0.5rem;
   @include responsive($lg) {
     padding-bottom: 0.2rem;
@@ -247,7 +349,7 @@ nav {
       display: flex;
       width: 32px;
       height: 2px;
-      background-color: #fff;
+      background-color: #523513;
       border-radius: 6px;
       display: flex;
       justify-content: center;
@@ -2058,7 +2160,7 @@ footer {
 .slider__nav {
   width: 12px;
   height: 12px;
-  margin: 80px 12px;
+  margin: 40px 12px;
   border-radius: 0%;
   z-index: 10;
   outline: 6px solid #ebe5d9;
@@ -2138,7 +2240,8 @@ footer {
   font-weight: bold;
 }
 .slider__txt {
-  font-size: 22px;
+  padding: 1rem;
+  font-size: 1.2rem;
   font-weight: bold;
   font-family: "Roboto";
   line-height: 1.7;
@@ -2156,22 +2259,22 @@ quote {
 
 @-webkit-keyframes check {
   50% {
-    outline-color: #333;
-    box-shadow: 0 0 0 12px #333, 0 0 0 36px rgba(51, 51, 51, 0.2);
+    outline-color: #523513;
+    box-shadow: 0 0 0 12px #523513, 0 0 0 36px rgba(51, 51, 51, 0.2);
   }
   100% {
-    outline-color: #333;
-    box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
+    outline-color: #523513;
+    box-shadow: 0 0 0 0 #523513, 0 0 0 0 rgba(51, 51, 51, 0);
   }
 }
 
 @keyframes check {
   50% {
-    outline-color: #333;
-    box-shadow: 0 0 0 12px #333, 0 0 0 36px rgba(51, 51, 51, 0.2);
+    outline-color: #523513;
+    box-shadow: 0 0 0 12px #523513, 0 0 0 36px rgba(51, 51, 51, 0.2);
   }
   100% {
-    outline-color: #333;
-    box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
+    outline-color: #523513;
+    box-shadow: 0 0 0 0 #523513, 0 0 0 0 rgba(51, 51, 51, 0);
   }
 }

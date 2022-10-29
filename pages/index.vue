@@ -4,9 +4,15 @@
     <section class="landing">
       <div class="container">
         <div class="middle">
-          <img src="../assets/img/middle2.svg" alt="" />
-          <h4>Proplast,The Perfect Fit</h4>
-          <p>
+          <img
+            class="animate-reveal animate-first"
+            src="../assets/img/middle.svg"
+            alt=""
+          />
+          <h4 class="animate-reveal animate-second">
+            Proplast,The Perfect Fit
+          </h4>
+          <p class="animate-reveal animate-third">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad labore
             iste provident voluptatibus quae cum commodi odit id fuga
           </p>
@@ -173,6 +179,10 @@
           </div>
         </div>
       </div>
+      <section class="module">
+        <h3 class="section-title"><span>Contact </span><b>Us</b></h3>
+        <div class="content"></div>
+      </section>
       <Contactus />
       <section class="map follow">
         <div class="container">
