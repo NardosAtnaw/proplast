@@ -1,13 +1,40 @@
 <template>
   <nav>
     <div class="logo1">
-      <nuxt-link to="/">
-        <img src="../assets/img/LOGOFONT.svg" alt=""
-      /></nuxt-link>
+      <div class="container">
+        <div class="logo-img">
+          <nuxt-link to="/">
+            <img src="../assets/img/LOGOFONT.svg" alt=""
+          /></nuxt-link>
+        </div>
+        <div class="desk-links">
+          <ul>
+            <li>
+              <nuxt-link to="/" target="_blank" class="lg-link">Home</nuxt-link>
+            </li>
+            <li>
+              <nuxt-link to="/product" target="_blank" class="lg-link"
+                >Products</nuxt-link
+              >
+            </li>
+            <li>
+              <nuxt-link to="/about" target="_blank" class="lg-link"
+                >About Us</nuxt-link
+              >
+            </li>
+            <li>
+              <nuxt-link to="/contact" target="_blank" class="lg-link"
+                >Contact Us</nuxt-link
+              >
+            </li>
+          </ul>
+        </div>
+        <i class="icon-menu">
+        <span></span>
+      </i>
+      </div>
+   
     </div>
-    <i class="icon-menu">
-      <span></span>
-    </i>
 
     <div class="main-nav">
       <div class="menu">

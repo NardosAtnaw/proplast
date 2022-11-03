@@ -10,7 +10,7 @@
             alt=""
           />
           <h4 class="animate-reveal animate-second">
-            Proplast,The Perfect Fit
+            Proplast, The Perfect Fit
           </h4>
           <p class="animate-reveal animate-third">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad labore
@@ -26,15 +26,10 @@
           <div class="about-wrapper">
             <img src="../assets/img/3.jpg" alt="" />
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt
-              sedn commodi repellat magni dolor. Error corporis perspiciatis qui
-              repellat accusantium, officiis in quo consectetur, ipsa
-              praesentium non voluptates saepe harum!Lorem ipsum dolor sit, amet
-              consectetur adipisicing elit. Sunt sed commodi repellat magni
-              dolor. Error corporis perspiciatis qui repellat accusantium,
-              officiis in quo consectetur, ipsa praesentium non voluptates saepe
-              harum! Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Sunt sed commodi repellat magni dolor.
+              <b>PROPLAST PIPE AND FITTING MANUFACTURING</b><br />
+              is a private company established with a capital of 60 million birr
+              in 2013 in E.C at Gondar to manufacture high quality uPVC Pipes,
+              PPR Pipes,HDPE Pipes,uPVC FITTINGS, PPR FITTINGS
             </p>
           </div>
         </div>
@@ -66,8 +61,8 @@
         <div class="list">
           <div class="container">
             <div class="single-list">
-              <img src="../assets/img/upc.jpg" alt="" />
-              <h4>UPC</h4>
+              <img src="../assets/img/HDPEPIPES.png" alt="" />
+              <h4>HDPE PIPES</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Reiciendis fugit aliquid corporis rerum omnis quidem, libero
@@ -76,8 +71,8 @@
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/R-pvc.jpeg" alt="" />
-              <h4>R-PVC</h4>
+              <img src="../assets/img/uPVCPIPES.jpg" alt="" />
+              <h4>uPVC PIPES</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Reiciendis fugit aliquid corporis rerum omnis quidem, libero
@@ -86,8 +81,8 @@
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/pvc_fitting.webp" alt="" />
-              <h4>PVC Fitting</h4>
+              <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
+              <h4>PPRFITTINGS</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Reiciendis fugit aliquid corporis rerum omnis quidem, libero
@@ -102,14 +97,14 @@
         <h3 class="section-title"><span>New</span><b>Arrivals</b></h3>
         <div class="content">
           <a class="video-item">
-            <p class="video-title">UPC</p>
+            <p class="video-title">HDPE PIPES</p>
             <span class="video-icon"></span>
-            <img src="../assets/img/proplast2.jpg" alt="" />
+            <img src="../assets/img/HDPEPIPES2.jpg" alt="" />
           </a>
           <a class="video-item">
-            <p class="video-title">PPR</p>
+            <p class="video-title">PPR FITTINGS</p>
             <span class="video-icon"></span>
-            <img src="../assets/img/ppr.jpg" alt="" />
+            <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
           </a>
 
           <a class="video-item">

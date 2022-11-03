@@ -14,16 +14,10 @@
       <div class="container">
         <h2>Our Story</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
-          voluptates optio quibusdam debitis, reiciendis tempora nemo, quidem in
-          maxime iusto sapiente. Harum at, aut vitae vero beatae corrupti
-          magnam. Esse!Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quaerat voluptates optio quibusdam debitis, reiciendis tempora nemo,
-          quidem in maxime iusto sapiente. Harum at, aut vitae vero beatae
-          corrupti magnam. Esse!Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Quaerat voluptates optio quibusdam debitis,
-          reiciendis tempora nemo, quidem in maxime iusto sapiente. Harum at,
-          aut vitae vero beatae corrupti magnam. Esse!
+          PROPLAST PIPE AND FITTING MANUFACTURING is a private company
+          established with a capital of 60 million birr in 2013 in E.C at Gondar
+          to manufacture high quality uPVC Pipes, PPR Pipes,HDPE Pipes,uPVC
+          FITTINGS, PPR FITTINGS
         </p>
       </div>
     </section>
@@ -33,26 +27,18 @@
           <img src="../assets/img/vision.svg" alt="" />
           <h4>Our Vision</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
-            voluptates optio quibusdam debitis, reiciendis tempora nemo, quidem
-            in maxime iusto sapiente. Harum at, aut vitae vero beatae corrupti
-            magnam. Esse!Lorem ipsum dolor sit amet consectetur adipisicing
-            elit. Quaerat voluptates optio quibusdam debitis, reiciendis tempora
-            nemo, quidem in maxime iusto sapiente. Harum at, aut vitae vero
-            beatae corrupti magnam.
+            To become regional leadership in plastic manufacturing industries
+            with global standards.
           </p>
         </div>
         <div class="mission">
           <img src="../assets/img/mission.svg" alt="" />
           <h4>Our Mission</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat
-            voluptates optio quibusdam debitis, reiciendis tempora nemo, quidem
-            in maxime iusto sapiente. Harum at, aut vitae vero beatae corrupti
-            magnam. Esse!Lorem ipsum dolor sit amet consectetur adipisicing
-            elit. Quaerat voluptates optio quibusdam debitis, reiciendis tempora
-            nemo, quidem in maxime iusto sapiente. Harum at, aut vitae vero
-            beatae corrupti magnam.
+            To become a supplier of choice by providing high quality PIPES and
+            FITTINGS for government infrastructure projects construction
+            companies and private home construction companies and private home
+            builders
           </p>
         </div>
       </div>

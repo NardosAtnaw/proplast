@@ -43,6 +43,36 @@
         <div class="list">
           <div class="container">
             <div class="single-list">
+              <img src="../assets/img/HDPEPIPES.png" alt="" />
+              <h4>HDPE PIPES</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/uPVCPIPES.jpg" alt="" />
+              <h4>uPVC PIPES</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
+              <h4>PPRFITTINGS</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
+            <div class="single-list">
               <img src="../assets/img/upc.jpg" alt="" />
               <h4>UPC</h4>
               <p>
@@ -52,9 +82,20 @@
                 sint nesciunt.
               </p>
             </div>
+
             <div class="single-list">
               <img src="../assets/img/R-pvc.jpeg" alt="" />
               <h4>R-PVC</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/uPVCFITTINGS.jpg" alt="" />
+              <h4>uPVC FITTINGS</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Reiciendis fugit aliquid corporis rerum omnis quidem, libero
@@ -72,39 +113,9 @@
                 sint nesciunt.
               </p>
             </div>
-            <div class="single-list">
-              <img src="../assets/img/pvc pipe.jpg" alt="" />
-              <h4>PVC Pipe</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
-            </div>
-            <div class="single-list">
-              <img src="../assets/img/upc.jpg" alt="" />
-              <h4>UPC</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
-            </div>
-            <div class="single-list">
-              <img src="../assets/img/R-pvc.jpeg" alt="" />
-              <h4>R-PVC</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
-            </div>
           </div>
         </div>
-      </section>  
+      </section>
       <Contactus />
     </div>
     <Footer />

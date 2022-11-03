@@ -14,13 +14,13 @@
         width: 5rem;
         @include responsive($md) {
           margin-top: 15rem;
-          width: 8rem;
+          width: 5rem;
         }
       }
       h4 {
         text-align: center;
         margin-top: 1rem;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         font-family: "LitSans";
         color: #523513;
         @include responsive($md) {
@@ -29,7 +29,7 @@
       }
       p {
         font-size: 0.9rem;
-        line-height: 1.3rem;
+        line-height: 1.5rem;
         color: #523513;
         font-weight: 300;
         font-family: "LitSans";
@@ -37,7 +37,7 @@
         margin-top: 0.5rem;
         @include responsive($md) {
           width: 50%;
-          font-size: 1.3rem;
+          font-size: 1rem;
         }
       }
 
@@ -131,7 +131,7 @@
           transform: translateY(100%);
         }
         100% {
-          opacity:1;
+          opacity: 1;
           -webkit-transform: translateY(0);
           -moz-transform: translateY(0);
           -o-transform: translateY(0);
@@ -281,42 +281,60 @@
   }
 }
 .logo1 {
-  width: 8rem;
-  height: 48px;
   z-index: 5;
   top: 20px;
   margin-top: 1rem;
   left: 40px;
   position: fixed;
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
   @include sm {
     left: 15px;
   }
-  h4 {
-    text-transform: uppercase;
-    color: #523513;
-    font-family: "Montserrat";
-    letter-spacing: 0.5rem;
-    font-weight: 600;
-    font-size: 1rem;
-  }
-  img {
-    width: 12rem;
-    object-fit: cover;
-    @include sm {
-      width: 5rem;
+  .logo-img {
+    img {
+      width: 25rem;
+      object-fit: cover;
+      @include sm {
+        width: 5rem;
+      }
+    }
+    &.sticky {
+      transition: all 0.6s ease;
+      background: #ede7d9;
+      position: fixed;
     }
   }
-  &.sticky {
-    transition: all 0.6s ease;
-    background: #ede7d9;
-    position: fixed;
+
+  .desk-links {
+    margin-left: 20rem;
+    margin-top: 1rem;
+    ul {
+      display: flex;
+      align-items: center;
+      place-items: center;
+      gap: 2rem;
+      li {
+        width: 7rem;
+        .lg-link {
+          font-size: 1rem;
+          color: #523513;
+          font-weight: 300;
+          font-family: "LitSans";
+        }
+      }
+    }
   }
 }
 nav {
   position: sticky;
   top: -0.02rem;
   height: 5.5rem;
-  display: flex;
+  // display: flex;
+  // align-items: center;
+  // justify-content: space-between;
   align-items: center;
   background-color: #ebe5d9;
   padding-bottom: 0.5rem;
@@ -325,6 +343,7 @@ nav {
     height: 6.5rem;
   }
   z-index: 99999;
+
   .icon-menu {
     width: 48px;
     height: 48px;
