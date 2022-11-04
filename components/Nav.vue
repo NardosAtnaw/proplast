@@ -10,46 +10,33 @@
         <div class="desk-links">
           <ul>
             <li>
-              <nuxt-link to="/" target="_blank" class="lg-link">Home</nuxt-link>
+              <nuxt-link to="/" class="lg-link">Home</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/product" target="_blank" class="lg-link"
-                >Products</nuxt-link
-              >
+              <nuxt-link to="/product" class="lg-link">Products</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/about" target="_blank" class="lg-link"
-                >About Us</nuxt-link
-              >
+              <nuxt-link to="/about" class="lg-link">About Us</nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/contact" target="_blank" class="lg-link"
-                >Contact Us</nuxt-link
-              >
+              <nuxt-link to="/contact" class="lg-link">Contact Us</nuxt-link>
             </li>
           </ul>
         </div>
         <i class="icon-menu">
-        <span></span>
-      </i>
+          <span></span>
+        </i>
       </div>
-   
     </div>
 
     <div class="main-nav">
       <div class="menu">
         <div class="menu-items">
-          <nuxt-link to="/" target="_blank" class="item">Home</nuxt-link>
+          <nuxt-link to="/" class="item">Home</nuxt-link>
           <!-- <a href="/" class="item" target="_blank">Home</a> -->
-          <nuxt-link to="/product" target="_blank" class="item"
-            >Products</nuxt-link
-          >
-          <nuxt-link to="/about" target="_blank" class="item"
-            >About Us</nuxt-link
-          >
-          <nuxt-link to="/contact" target="_blank" class="item"
-            >Contact Us</nuxt-link
-          >
+          <nuxt-link to="/product" class="item">Products</nuxt-link>
+          <nuxt-link to="/about" class="item">About Us</nuxt-link>
+          <nuxt-link to="/contact" class="item">Contact Us</nuxt-link>
         </div>
       </div>
     </div>

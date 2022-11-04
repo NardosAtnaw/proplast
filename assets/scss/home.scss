@@ -32,7 +32,7 @@
         line-height: 1.5rem;
         color: #523513;
         font-weight: 300;
-        font-family: "LitSans";
+        // font-family: "LitSans";
         text-align: center;
         margin-top: 0.5rem;
         @include responsive($md) {
@@ -298,7 +298,8 @@
       width: 25rem;
       object-fit: cover;
       @include sm {
-        width: 5rem;
+        margin-top: -1rem;
+        width:10rem;
       }
     }
     &.sticky {
@@ -309,6 +310,9 @@
   }
 
   .desk-links {
+    display: none;
+   @include responsive($lg){
+    display: block;
     margin-left: 20rem;
     margin-top: 1rem;
     ul {
@@ -326,6 +330,7 @@
         }
       }
     }
+   }
   }
 }
 nav {
@@ -1912,7 +1917,7 @@ footer {
   }
 }
 .contact {
-  margin-top: -3rem;
+  margin-top: 3rem;
   .container {
     h2 {
       @extend .title;
