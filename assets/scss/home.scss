@@ -6,6 +6,42 @@
   position: relative;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.05);
   .container {
+    .img1 {
+      position: absolute;
+      top: 8rem;
+      left: 10rem;
+      width: 30rem;
+      height: 20rem;
+      object-fit: cover;
+      opacity: 0.5;
+    }
+    .img2 {
+      position: absolute;
+      top: 35rem;
+      left: 10rem;
+      width: 30rem;
+      height: 20rem;
+      object-fit: cover;
+      opacity: 0.5;
+    }
+    .img3 {
+      position: absolute;
+      top: 5rem;
+      right: 10rem;
+      width: 30rem;
+      height: 20rem;
+      object-fit: cover;
+      opacity: 0.5;
+    }
+    .img4 {
+      position: absolute;
+      top: 30rem;
+      right: 10rem;
+      width: 20rem;
+      height: 10rem;
+      object-fit: cover;
+      opacity: 0.5;
+    }
     .middle {
       display: grid;
       place-items: center;
@@ -299,7 +335,7 @@
       object-fit: cover;
       @include sm {
         margin-top: -1rem;
-        width:10rem;
+        width: 10rem;
       }
     }
     &.sticky {
@@ -311,26 +347,26 @@
 
   .desk-links {
     display: none;
-   @include responsive($lg){
-    display: block;
-    margin-left: 20rem;
-    margin-top: 1rem;
-    ul {
-      display: flex;
-      align-items: center;
-      place-items: center;
-      gap: 2rem;
-      li {
-        width: 7rem;
-        .lg-link {
-          font-size: 1rem;
-          color: #523513;
-          font-weight: 300;
-          font-family: "LitSans";
+    @include responsive($lg) {
+      display: block;
+      margin-left: 20rem;
+      margin-top: 1rem;
+      ul {
+        display: flex;
+        align-items: center;
+        place-items: center;
+        gap: 2rem;
+        li {
+          width: 7rem;
+          .lg-link {
+            font-size: 1rem;
+            color: #523513;
+            font-weight: 300;
+            font-family: "LitSans";
+          }
         }
       }
     }
-   }
   }
 }
 nav {

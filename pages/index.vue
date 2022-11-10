@@ -3,6 +3,26 @@
     <Nav />
     <section class="landing">
       <div class="container">
+        <!-- <img
+          class="img1"
+          src="../assets/img/6.jpg"
+          alt=""
+        />
+        <img
+          class="img2"
+          src="../assets/img/7.jpg"
+          alt=""
+        />
+        <img
+          class="img3"
+          src="../assets/img/8.jpg"
+          alt=""
+        />
+        <img
+          class="img4"
+          src="../assets/img/9.jpg"
+          alt=""
+        /> -->
         <div class="middle">
           <img
             class="animate-reveal animate-first"
