@@ -113,6 +113,27 @@
                 sint nesciunt.
               </p>
             </div>
+            <div class="single-list">
+              <img src="../assets/img/upc.jpg" alt="" />
+              <h4>UPC</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
+
+            <div class="single-list">
+              <img src="../assets/img/R-pvc.jpeg" alt="" />
+              <h4>R-PVC</h4>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
+                ducimus nostrum quos laboriosam laborum vero officia tempora
+                sint nesciunt.
+              </p>
+            </div>
           </div>
         </div>
       </section>

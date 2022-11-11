@@ -45,12 +45,15 @@
         <div class="container">
           <div class="about-wrapper">
             <img src="../assets/img/3.jpg" alt="" />
-            <p>
-              <b>PROPLAST PIPE AND FITTING MANUFACTURING</b><br />
-              is a private company established with a capital of 60 million birr
-              in 2013 in E.C at Gondar to manufacture high quality uPVC Pipes,
-              PPR Pipes,HDPE Pipes,uPVC FITTINGS, PPR FITTINGS
-            </p>
+            <div class="desc-about">
+              <h2><b>PROPLAST PIPE AND FITTING MANUFACTURING</b></h2>
+              <p>
+                <br />
+                is a private company established with a capital of 60 million
+                birr in 2013 in E.C at Gondar to manufacture high quality uPVC
+                Pipes, PPR Pipes,HDPE Pipes,uPVC FITTINGS, PPR FITTINGS
+              </p>
+            </div>
           </div>
         </div>
       </section>
