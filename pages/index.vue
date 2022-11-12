@@ -88,9 +88,7 @@
               <h4>HDPE PIPES</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                Reiciendis fugit aliquid corporis rerum omnis quidem.
               </p>
             </div>
             <div class="single-list">
@@ -98,9 +96,7 @@
               <h4>uPVC PIPES</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                Reiciendis fugit aliquid corporis rerum omnis quidem.
               </p>
             </div>
             <div class="single-list">
@@ -108,9 +104,7 @@
               <h4>PPRFITTINGS</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                Reiciendis fugit aliquid corporis rerum omnis quidem.
               </p>
             </div>
           </div>
