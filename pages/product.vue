@@ -5,7 +5,7 @@
       <div class="container">
         <div class="page-wrapper">
           <article>
-            <h1 class="site-title">Product</h1>
+            <h1 class="site-title">Products</h1>
           </article>
         </div>
       </div>
@@ -14,7 +14,7 @@
       <div class="container">
         <div class="new-product">
           <div class="text-desc">
-            <h2>New Product</h2>
+            <h2>New Products</h2>
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt
               sedn commodi repellat magni dolor. Error corporis perspiciatis qui
@@ -37,7 +37,7 @@
     </section>
     <div class="wrapper">
       <section class="module product-list">
-        <h3 class="section-title"><b>List of</b><span>Product</span></h3>
+        <h3 class="section-title"><b>List of</b><span>Products</span></h3>
       </section>
       <section class="product-all-list">
         <div class="list">

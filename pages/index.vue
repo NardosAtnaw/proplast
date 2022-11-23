@@ -73,7 +73,7 @@
       </section>
 
       <section class="module product-list">
-        <h3 class="section-title"><b>List of</b><span>Product</span></h3>
+        <h3 class="section-title"><b>List of</b><span>Products</span></h3>
         <div class="content">
           <ul class="shows">
             <li></li>
