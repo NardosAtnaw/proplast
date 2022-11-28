@@ -23,9 +23,27 @@
             </li>
           </ul>
         </div>
-        <i class="icon-menu">
-          <span></span>
-        </i>
+
+        <div class="mobile-link">
+          <div role="navigation">
+            <div id="menuToggle">
+              <input type="checkbox" />
+
+              <span></span>
+              <span></span>
+              <span></span>
+
+              <ul id="menu" class="ul-links1">
+                <li><nuxt-link class="link-a" to="/">Home</nuxt-link></li>
+                <li><nuxt-link class="link-a" to="/product">Product</nuxt-link></li>
+                <li><nuxt-link class="link-a" to="/about">About Us</nuxt-link></li>
+                <li>
+                  <nuxt-link class="link-a" to="/contact">Contact Us</nuxt-link>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -33,7 +51,7 @@
       <div class="menu">
         <div class="menu-items">
           <nuxt-link to="/" class="item">Home</nuxt-link>
-          <!-- <a href="/" class="item" target="_blank">Home</a> -->
+
           <nuxt-link to="/product" class="item">Products</nuxt-link>
           <nuxt-link to="/about" class="item">About Us</nuxt-link>
           <nuxt-link to="/contact" class="item">Contact Us</nuxt-link>

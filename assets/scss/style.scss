@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap");
+
+$font-01: "Roboto", sans-serif;
+
 //mixins
 $sm: 576px;
 $md: 768px;
@@ -53,8 +57,8 @@ $neu-07: #523513;
 body {
   margin: 0;
   padding: 0;
-  // font-family: $font-01;
-  font-family: "LitSans";
+  font-family: $font-01 !important;
+  // font-family: "LitSans";
   overflow-x: hidden;
   background: #ffffff;
   &.no-scroll {
