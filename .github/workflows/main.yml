@@ -18,7 +18,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           source: dist/*
-          target: /var/www/html
+          target: /var/www/html/
       - name: Install pm2
         run: npm i -g pm2
       - name: start pm2
