@@ -101,7 +101,7 @@
             </div>
             <div class="single-list">
               <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
-              <h4>PPRFITTINGS</h4>
+              <h4>PPR FITTINGS</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Reiciendis fugit aliquid corporis rerum omnis quidem.
