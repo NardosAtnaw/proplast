@@ -17,7 +17,7 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
-          source: .dist/*
+          source: dist/*
           target: /home/sam/proplast
       - name: Install pm2
         run: npm i -g pm2
