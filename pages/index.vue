@@ -33,8 +33,9 @@
             Proplast, The Perfect Fit
           </h4>
           <p class="animate-reveal animate-third">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad labore
-            iste provident voluptatibus quae cum commodi odit id fuga
+            We are manufacturer, supplier, and trader company offering top-notch
+            industrial pipes and fittings. Our staff is focused on providing
+            exceptional services.
           </p>
         </div>
         <div class="collection-images"></div>
@@ -61,11 +62,12 @@
         <div class="container">
           <div class="wrapper">
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-              Incidunt, nostrum unde, aperiam, ut nemo esse doloremque soluta
-              dolor vero consectetur libero harum perspiciatis deserunt aliquam
-              magnam adipisci! Perspiciatis, quam delectus.Lorem ipsum dolor sit
-              amet consectetur, adipisicing elit. Incidunt
+              We are manufacturer, supplier, and trader company offering
+              top-notch industrial pipes and fittings. Our staff is focused on
+              providing exceptional services.Proplast is a private company
+              established with a capital of 60 million birr in 2013 in E.C at
+              Gondar to manufacture high quality uPVC Pipes, PPR Pipes,HDPE
+              Pipes,uPVC FITTINGS, PPR FITTINGS
             </p>
             <button class="btn btn-secondary">CONTACT US</button>
           </div>
@@ -87,24 +89,42 @@
               <img src="../assets/img/HDPEPIPES.png" alt="" />
               <h4>HDPE PIPES</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem.
+               are ageing concrete or steel mains pipes are frequently replaced , a flexible plastic pipe type utilized for fluid and gas transport. 
               </p>
             </div>
             <div class="single-list">
               <img src="../assets/img/uPVCPIPES.jpg" alt="" />
-              <h4>uPVC PIPES</h4>
+              <h4>UPVC PIPES</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem.
+                 are a durable option for all kinds of plumbing applications,Due to their excellent tensile and impact strength. 
               </p>
             </div>
             <div class="single-list">
               <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
               <h4>PPR FITTINGS</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem.
+                 are fittings in the development of cold and hot water systems.
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/uPVCFITTINGS.jpg" alt="" />
+              <h4>UPVC FITTINGS</h4>
+              <p>
+               are an engineered plastic known as Unplasticized Polyvinyl Chloride. In the lack of plasticizers, which increase plastic's flexibility and reduce its brittleness, something is said to be "unplasticized." 
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/ppr.jpg" alt="" />
+              <h4>PPR PIPES</h4>
+              <p>
+             (A polypropylene random co-polymer)is a type of plastic pipe constructed from this substance. 
+              </p>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/ppr.jpg" alt="" />
+              <h4>Conduits</h4>
+              <p>
+                is a tube used in a building or other structure to protect and route electrical wiring. Metal, plastic, fiber, or burned clay can all be used to make electrical conduit.
               </p>
             </div>
           </div>

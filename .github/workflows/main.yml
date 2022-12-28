@@ -10,14 +10,14 @@ jobs:
       - name: Install dependencies
         run: npm install --force
       - name: Build app
-        run: npm run generate
+        run: npm run build
       - name: Deploy app
         uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
-          source: dist/*
+          source: .nuxt/*
           target: /home/sam/proplast
       - name: Install pm2
         run: npm i -g pm2
