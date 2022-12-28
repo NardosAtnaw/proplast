@@ -19,7 +19,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           source: .nuxt/*
           target: /home/sam/proplast
-      - name: Install pm2
-        run: npm i -g pm2
       - name: start pm2
-        run: pm2 restart npm --name "proplast" -- restart
+        run: pm2 restart proplast
