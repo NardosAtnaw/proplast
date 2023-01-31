@@ -26,7 +26,6 @@
               harum! Lorem ipsum dolor sit, amet consectetur adipisicing elit.
               Sunt sed commodi repellat magni dolor.
             </p>
-            <button class="btn btn-secondary row-max-grid">Order Now</button>
           </div>
           <img src="../assets/img/proplast2.jpg" alt="" />
         </div>
@@ -46,93 +45,148 @@
               <img src="../assets/img/HDPEPIPES.png" alt="" />
               <h4>HDPE PIPES</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                are ageing concrete or steel mains pipes are frequently replaced
+                , a flexible plastic pipe type utilized for fluid and gas
+                transport.
               </p>
+            </div>
+            <div class="single-list">
+              <h3>OD 20</h3>
+              <h3>OD 25</h3>
+              <h3>OD 32</h3>
+              <h3>OD 40</h3>
+              <h3>OD 50</h3>
+            </div>
+            <div class="single-list">
+              
+              <h3>OD 63</h3>
+              <h3>OD 75</h3>
+              <h3>OD 90</h3>
+              <h3>OD 11
+                0</h3>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
             </div>
             <div class="single-list">
               <img src="../assets/img/uPVCPIPES.jpg" alt="" />
-              <h4>uPVC PIPES</h4>
+              <h4>UPVC PIPES</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                are a durable option for all kinds of plumbing applications,Due
+                to their excellent tensile and impact strength. 
               </p>
+            </div>
+            <div class="single-list">
+              <h4>PN4</h4>
+              <h3>OD 50</h3>
+              <h3>OD 75</h3>
+              <h3>OD 90</h3>
+              <h3>OD 110</h3>
+              <h3>OD 125</h3>
+              <h3>OD 160</h3>
+            </div>
+            <div class="single-list">
+              <h4>PN6</h4>
+              <h3>OD 75</h3>
+              <h3>OD 90</h3>
+              <h3>OD 110</h3>
+              <h3>OD 125</h3>
+              <h3>OD 160</h3>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
             </div>
             <div class="single-list">
               <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
-              <h4>PPRFITTINGS</h4>
+              <h4>PPR FITTINGS</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                are fittings in the development of cold and hot water systems.
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/upc.jpg" alt="" />
-              <h4>UPC</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
+              <h3>OD 20</h3>
+              <h3>OD 25</h3>
+              <h3>OD 32</h3>
             </div>
-
             <div class="single-list">
-              <img src="../assets/img/R-pvc.jpeg" alt="" />
-              <h4>R-PVC</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
+              <h3>OD 40</h3>
+              <h3>OD 50</h3>
+              <h3>OD 63</h3>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
             </div>
             <div class="single-list">
               <img src="../assets/img/uPVCFITTINGS.jpg" alt="" />
-              <h4>uPVC FITTINGS</h4>
+              <h4>UPVC FITTINGS</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                are an engineered plastic known as Unplasticized Polyvinyl
+                Chloride. In the lack of plasticizers, which increase plastic's
+                flexibility and reduce its brittleness, something is said to be
+                "unplasticized."
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/pvc_fitting.webp" alt="" />
-              <h4>PVC Fitting</h4>
+              <h4>UPVC FITTINGS1</h4>
+              <h4>UPVC FITTINGS2</h4>
+              <h4>UPVC FITTINGS3</h4>
+              <h4>UPVC FITTINGS4</h4>
+              <h4>UPVC FITTINGS4-1</h4>
+            </div>
+            <div class="single-list">
+              <h4>UPVC FITTINGS5</h4>
+              <h4>UPVC FITTINGS6</h4>
+              <h4>UPVC FITTINGS7</h4>
+              <h4>UPVC FITTINGS8</h4>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/ppr.jpg" alt="" />
+              <h4>PPR PIPES</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                (A polypropylene random co-polymer)is a type of plastic pipe
+                constructed from this substance.
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/upc.jpg" alt="" />
-              <h4>UPC</h4>
+              <h3>OD 20</h3>
+              <h3>OD 25</h3>
+              <h3>OD 32</h3>
+            </div>
+            <div class="single-list">
+              <h3>OD 40</h3>
+              <h3>OD 50</h3>
+              <h3>OD 63</h3>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
+            </div>
+            <div class="single-list">
+              <img src="../assets/img/ppr.jpg" alt="" />
+              <h4>Conduits</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
+                is a tube used in a building or other structure to protect and
+                route electrical wiring. Metal, plastic, fiber, or burned clay
+                can all be used to make electrical conduit.
               </p>
             </div>
-
             <div class="single-list">
-              <img src="../assets/img/R-pvc.jpeg" alt="" />
-              <h4>R-PVC</h4>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Reiciendis fugit aliquid corporis rerum omnis quidem, libero
-                ducimus nostrum quos laboriosam laborum vero officia tempora
-                sint nesciunt.
-              </p>
+              <h4>Conduits 1</h4>
+              <h4>Conduits 2</h4>
+              <h4>Conduits 3</h4>
+              <h4>Conduits 4</h4>
+              <h4>Conduits 4-1</h4>
+            </div>
+            <div class="single-list">
+              <h4>Conduits 5</h4>
+              <h4>Conduits 6</h4>
+              <h4>Conduits 7</h4>
+              <h4>Conduits 8</h4>
+              <button class="btn btn-secondary row-max-grid">
+                <a href="./order"> Order Now</a>
+              </button>
             </div>
           </div>
         </div>
