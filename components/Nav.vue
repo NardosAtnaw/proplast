@@ -16,6 +16,9 @@
               <nuxt-link to="/product" class="lg-link">Products</nuxt-link>
             </li>
             <li>
+              <nuxt-link to="/order" class="lg-link">Order Now</nuxt-link>
+            </li>
+            <li>
               <nuxt-link to="/about" class="lg-link">About Us</nuxt-link>
             </li>
             <li>

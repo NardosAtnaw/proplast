@@ -29,10 +29,13 @@
             src="../assets/img/middle.svg"
             alt=""
           />
-          <h4 class="animate-reveal animate-second">
-            Proplast, The Perfect Fit
-          </h4>
-          <p class="animate-reveal animate-third">
+          <h4 class="animate-reveal animate-second">PROPLAST</h4>
+          <div class="flex-all animate-reveal animate-second">
+            <hr />
+            <p class="text-per">The Perfect Fit</p>
+            <hr />
+          </div>
+          <p class="small-p animate-reveal animate-third">
             We are manufacturer, supplier, and trader company offering top-notch
             industrial pipes and fittings. Our staff is focused on providing
             exceptional services.
@@ -45,7 +48,7 @@
       <section class="about-us row-max-grid">
         <div class="container">
           <div class="about-wrapper">
-            <img src="../assets/img/3.jpg" alt="" />
+            <img src="../assets/img/2.jpg" alt="" />
             <div class="desc-about">
               <h2><b>PROPLAST PIPE AND FITTING MANUFACTURING</b></h2>
               <p>
@@ -89,42 +92,51 @@
               <img src="../assets/img/HDPEPIPES.png" alt="" />
               <h4>HDPE PIPES</h4>
               <p>
-               are ageing concrete or steel mains pipes are frequently replaced , a flexible plastic pipe type utilized for fluid and gas transport. 
+                are ageing concrete or steel mains pipes are frequently replaced
+                , a flexible plastic pipe type utilized for fluid and gas
+                transport.
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/uPVCPIPES.jpg" alt="" />
+              <img src="../assets/img/upvc.webp" alt="" />
               <h4>UPVC PIPES</h4>
               <p>
-                 are a durable option for all kinds of plumbing applications,Due to their excellent tensile and impact strength. 
+                are a durable option for all kinds of plumbing applications,Due
+                to their excellent tensile and impact strength. 
               </p>
             </div>
             <div class="single-list">
               <img src="../assets/img/PPRFITTINGS.jpg" alt="" />
               <h4>PPR FITTINGS</h4>
               <p>
-                 are fittings in the development of cold and hot water systems.
+                are fittings in the development of cold and hot water systems.
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/uPVCFITTINGS.jpg" alt="" />
+              <img src="../assets/img/upvc.jpg" alt="" />
               <h4>UPVC FITTINGS</h4>
               <p>
-               are an engineered plastic known as Unplasticized Polyvinyl Chloride. In the lack of plasticizers, which increase plastic's flexibility and reduce its brittleness, something is said to be "unplasticized." 
+                are an engineered plastic known as Unplasticized Polyvinyl
+                Chloride. In the lack of plasticizers, which increase plastic's
+                flexibility and reduce its brittleness, something is said to be
+                "unplasticized."
               </p>
             </div>
             <div class="single-list">
               <img src="../assets/img/ppr.jpg" alt="" />
               <h4>PPR PIPES</h4>
               <p>
-             (A polypropylene random co-polymer)is a type of plastic pipe constructed from this substance. 
+                (A polypropylene random co-polymer)is a type of plastic pipe
+                constructed from this substance.
               </p>
             </div>
             <div class="single-list">
-              <img src="../assets/img/ppr.jpg" alt="" />
+              <img src="../assets/img/condi.jpg" alt="" />
               <h4>Conduits</h4>
               <p>
-                is a tube used in a building or other structure to protect and route electrical wiring. Metal, plastic, fiber, or burned clay can all be used to make electrical conduit.
+                is a tube used in a building or other structure to protect and
+                route electrical wiring. Metal, plastic, fiber, or burned clay
+                can all be used to make electrical conduit.
               </p>
             </div>
           </div>

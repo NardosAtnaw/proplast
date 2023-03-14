@@ -16,15 +16,10 @@
           <div class="text-desc">
             <h2>New Products</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt
-              sedn commodi repellat magni dolor. Error corporis perspiciatis qui
-              repellat accusantium, officiis in quo consectetur, ipsa
-              praesentium non voluptates saepe harum!Lorem ipsum dolor sit, amet
-              consectetur adipisicing elit. Sunt sed commodi repellat magni
-              dolor. Error corporis perspiciatis qui repellat accusantium,
-              officiis in quo consectetur, ipsa praesentium non voluptates saepe
-              harum! Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Sunt sed commodi repellat magni dolor.
+              PROPLAST PIPE AND FITTING MANUFACTURING is a private company
+              established with a capital of 60 million birr in 2013 in E.C at
+              Gondar to manufacture high quality uPVC Pipes, PPR Pipes,HDPE
+              Pipes,uPVC FITTINGS, PPR FITTINGS
             </p>
           </div>
           <img src="../assets/img/proplast2.jpg" alt="" />
@@ -58,18 +53,16 @@
               <h3>OD 50</h3>
             </div>
             <div class="single-list">
-              
               <h3>OD 63</h3>
               <h3>OD 75</h3>
               <h3>OD 90</h3>
-              <h3>OD 11
-                0</h3>
+              <h3>OD 11 0</h3>
               <button class="btn btn-secondary row-max-grid">
                 <a href="./order"> Order Now</a>
               </button>
             </div>
             <div class="single-list">
-              <img src="../assets/img/uPVCPIPES.jpg" alt="" />
+              <img src="../assets/img/upvc.webp" alt="" />
               <h4>UPVC PIPES</h4>
               <p>
                 are a durable option for all kinds of plumbing applications,Due
@@ -117,7 +110,7 @@
               </button>
             </div>
             <div class="single-list">
-              <img src="../assets/img/uPVCFITTINGS.jpg" alt="" />
+              <img src="../assets/img/upvc.jpg" alt="" />
               <h4>UPVC FITTINGS</h4>
               <p>
                 are an engineered plastic known as Unplasticized Polyvinyl
@@ -126,18 +119,8 @@
                 "unplasticized."
               </p>
             </div>
+            <div class="single-list"></div>
             <div class="single-list">
-              <h4>UPVC FITTINGS1</h4>
-              <h4>UPVC FITTINGS2</h4>
-              <h4>UPVC FITTINGS3</h4>
-              <h4>UPVC FITTINGS4</h4>
-              <h4>UPVC FITTINGS4-1</h4>
-            </div>
-            <div class="single-list">
-              <h4>UPVC FITTINGS5</h4>
-              <h4>UPVC FITTINGS6</h4>
-              <h4>UPVC FITTINGS7</h4>
-              <h4>UPVC FITTINGS8</h4>
               <button class="btn btn-secondary row-max-grid">
                 <a href="./order"> Order Now</a>
               </button>
@@ -164,7 +147,7 @@
               </button>
             </div>
             <div class="single-list">
-              <img src="../assets/img/ppr.jpg" alt="" />
+              <img src="../assets/img/condi.jpg" alt="" />
               <h4>Conduits</h4>
               <p>
                 is a tube used in a building or other structure to protect and
@@ -173,17 +156,16 @@
               </p>
             </div>
             <div class="single-list">
-              <h4>Conduits 1</h4>
-              <h4>Conduits 2</h4>
-              <h4>Conduits 3</h4>
-              <h4>Conduits 4</h4>
-              <h4>Conduits 4-1</h4>
+              <h3>13 mm</h3>
+              <h3>16 mm</h3>
+              <h3>19 mm</h3>
+              <h3>21 mm</h3>
             </div>
             <div class="single-list">
-              <h4>Conduits 5</h4>
-              <h4>Conduits 6</h4>
-              <h4>Conduits 7</h4>
-              <h4>Conduits 8</h4>
+              <h3>25 mm</h3>
+              <h3>32 mm</h3>
+              <h3>40 mm</h3>
+
               <button class="btn btn-secondary row-max-grid">
                 <a href="./order"> Order Now</a>
               </button>
