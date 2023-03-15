@@ -1,5 +1,8 @@
 .about-section {
   .container {
+    display: grid;
+    place-items: center;
+
     h2 {
       margin-top: 1rem;
       font-size: 2rem;
@@ -10,6 +13,7 @@
       letter-spacing: 0.1em;
     }
     p {
+      width: 80%;
       margin-top: 1rem;
       text-align: center;
       color: #523513;

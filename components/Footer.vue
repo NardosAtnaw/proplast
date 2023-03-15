@@ -7,20 +7,35 @@
             <div class="links">
               <h3>Quick Links</h3>
               <div class="line"></div>
-              <a href="">Home</a>
-              <a href="">Products</a>
-              <a href="">New Arrivals</a>
-              <a href="">Map</a>
-              <a href="">Contact Us</a>
+              <ul>
+                <li>
+                  <nuxt-link to="/" class="lg-link">Home</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/product" class="lg-link">Products</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/order" class="lg-link">Order Now</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/about" class="lg-link">About Us</nuxt-link>
+                </li>
+                <li>
+                  <nuxt-link to="/contact" class="lg-link"
+                    >Contact Us</nuxt-link
+                  >
+                </li>
+              </ul>
             </div>
             <div class="links">
               <h3>Products</h3>
               <div class="line"></div>
-              <a href="">Products 1</a>
-              <a href="">Products 2</a>
-              <a href="">Products 3</a>
-              <a href="">Products 4</a>
-              <a href="">Products 5</a>
+              <nuxt-link to="/product">HDPE PIPES</nuxt-link>
+              <nuxt-link to="/product">UPVC PIPES</nuxt-link>
+              <nuxt-link to="/product">PPR FITTINGS</nuxt-link>
+              <nuxt-link to="/product">UPVC FITTINGS</nuxt-link>
+              <nuxt-link to="/product">PPR PIPES</nuxt-link>
+              <nuxt-link to="/product">Conduits</nuxt-link>
             </div>
             <div class="links">
               <h3>Social Media link</h3>
