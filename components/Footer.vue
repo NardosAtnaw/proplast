@@ -48,7 +48,7 @@
             </div>
           </div>
         </div>
-        <p class="text">PROPLAST & copy 2022— all rights reserved</p>
+        <p class="text">PROPLAST and copy 2022— all rights reserved</p>
         <p class="credits">
           design by
           <a href="https://versavvymedia.com/" target="_blank"
